@@ -1,0 +1,351 @@
+attraction_name,matched_review_destinations,match_type,review_count,review_evidence_available
+Yala National Park,[],none,0,False
+Sigiriya,[],none,0,False
+Galle Fort,"['Black Galle Fort', 'Galle Fort Clock Tower', 'Galle Fort Attractions and Jumpers Sri Lanka']",alias,430,True
+Ella,"['Bomburu Ella Waterfall', 'Sera ella water falls', 'Dumbara ella waterfalls', 'Rahas ella waterfalls', 'Balakaduwa ella waterfall', 'TURTLE POINT BATHEEGAMA, DiCKWELLA.', 'Marakkala Ella', 'Kande sudu ella water falls', 'Atha Mala Ella', 'Dumpus Ella', 'Bambarakiri ella', 'Bopagama Ella', 'Abarana Ella', 'Bellagio colombo', 'Madanagiri Ella', 'Dehena Ella', 'Pareiyan Ella Falls', 'Mapalana Ella Falls', 'Lanka Ella - Waterfall', 'Kirindi Ella Waterfall', 'Katugas Ella Waterfall', 'Wadakada ella falls', 'Jodu ella water falls', 'Biso Ella Waterfall', 'Ravan Ella Waterfall', 'Minee Ella', 'Kurundu Oya Ella Falls', 'Goraka Ella']",substring,2894,True
+Hikkaduwa Beach,[],none,0,False
+Dambulla Cave Temple,[],none,0,False
+Kataragama,[],none,0,False
+Viharamahadevi Park,['Viharamahadevi Park'],exact,209,True
+Panavitiya Ambalama,[],none,0,False
+Gal Oya National Park,[],none,0,False
+Victoria Park,[],none,0,False
+Ridee Viharaya,[],none,0,False
+Lahugala Kitulana Forest Reserve,[],none,0,False
+Nikayalannuwara Historical Temple,[],none,0,False
+Nilavara Bottomless Well,[],none,0,False
+Udawalawe National Park,[],none,0,False
+Neelagiri Stupa,[],none,0,False
+Kalpitiya Beach,[],none,0,False
+Traditional Village (Ape Gama),[],none,0,False
+Point Pedro,[],none,0,False
+Omunugala Cave Monastery,[],none,0,False
+Lionel Wendt Art Centre,[],none,0,False
+Rawana Ella and Ravana Falls,[],none,0,False
+Negombo,[],none,0,False
+Habuthala Viharaya or Tharulengala Monastery,[],none,0,False
+Colombo Lighthouse,[],none,0,False
+Bellanwila Temple (Bellanwila Rajamaha Viharaya),[],none,0,False
+Ancient Veheragala of Pulukunawa,[],none,0,False
+Veheragala Temple,[],none,0,False
+Koggala Beach,[],none,0,False
+The Nagapooshani Amman Kovil,[],none,0,False
+Buddhangala Monastery,[],none,0,False
+Mullikulamalai,[],none,0,False
+Unawatuna,"['Jungle Beach, Unawatuna']",substring,226,True
+Bandaraduwa,[],none,0,False
+Sangamankanda Point,[],none,0,False
+Meemure,[],none,0,False
+Dowa Rock Temple,[],none,0,False
+St. Clair's Falls,[],none,0,False
+Negombo Beach,[],none,0,False
+Baron's Cap or Thoppigala,[],none,0,False
+The Steaming Hot Water Wells of Mahaoya,[],none,0,False
+Delft Wild Horses,[],none,0,False
+Colombo Gold Center,[],none,0,False
+Wadinagala,[],none,0,False
+Samangala Forest Hermitage,[],none,0,False
+Little Adam's Peak,[],none,0,False
+Okanda Devalaya (A Destination of Mass Pilgrimage),[],none,0,False
+The Japanese Peace Pagoda,[],none,0,False
+Rambodagalla Buddha Statue,[],none,0,False
+Pigeon Island National Park,[],none,0,False
+The Dagger Clawed People,[],none,0,False
+Piyangala Forest Hermitage,[],none,0,False
+Delft Baobab Tree,[],none,0,False
+Shasthrawela,[],none,0,False
+Mirissa,['Mirissa Beach'],substring,237,True
+Angurukaramulla Temple,[],none,0,False
+Pannathgoda Purana Raja Maha Viharaya,[],none,0,False
+Sri Pada (Adam's Peak),[],none,0,False
+Owagiriya Ancient Monastery,[],none,0,False
+Okanda Beach,[],none,0,False
+Maduwanwela Walawwa,[],none,0,False
+Dunhinda Falls,[],none,0,False
+Kaluthara Bodhiya,[],none,0,False
+Maduru Oya National Wildlife Park,[],none,0,False
+Seema Malakaya Meditation Centre,[],none,0,False
+Wolvendaal Church,[],none,0,False
+Independence Memorial Hall,[],none,0,False
+Ancient Deegawapiya,[],none,0,False
+Kosgoda,[],none,0,False
+Pinnawala Elephant Orphanage,[],none,0,False
+Sinharaja,[],none,0,False
+Wasgamuwa National Park,[],none,0,False
+Veddagala,[],none,0,False
+Laxapana Falls,[],none,0,False
+Diva Guhawa - Batatota Lena,['Diva Guhawa'],substring,82,True
+Bahirawa Kanda,[],none,0,False
+Bundala National Park,['Bundala National Park'],exact,190,True
+Diyatha Uyana,['Diyatha Uyana'],exact,200,True
+Sri Shakhyasinharamaya,[],none,0,False
+Craft Village,[],none,0,False
+Richmond Castle,['Richmond Castle'],exact,240,True
+Muhudu Maha Viharaya,[],none,0,False
+Arcade Independence Square,['Independence Square'],substring,207,True
+Beira Lake,[],none,0,False
+Delft Island,[],none,0,False
+Rambakan Oya,[],none,0,False
+Wilpattu National Park,[],none,0,False
+Tomb of King Vijay,[],none,0,False
+Senanayaka Samudraya of Inginiyagala,[],none,0,False
+Sri Dalada Maligawa (Temple of the Tooth),[],none,0,False
+Delft Growing Stone,[],none,0,False
+Alawala Devin Penne Ela,[],none,0,False
+Ratmullukanda Viharaya,[],none,0,False
+Hamilton Canal,['Hamilton Canal Park'],substring,59,True
+Henarathgoda Botanical Garden,[],none,0,False
+Yapahuwa Rock Fortress,['Yapahuwa rock fortress'],normalized,573,True
+Rajagala,[],none,0,False
+Maduru Oya Reservoir,[],none,0,False
+Attanagalla Raja Maha Viharava,[],none,0,False
+Jungle Beach,"['Jungle Beach, Unawatuna']",substring,226,True
+Nuwaragala,[],none,0,False
+Kudumbigala Monastery,[],none,0,False
+Kumana National Park,[],none,0,False
+Horton Plains,['Horton plains national park'],substring,1009,True
+Devon Falls,['Devon Falls'],exact,288,True
+Whale Watching in Mirissa,[],none,0,False
+Kebiliththa Devalaya,[],none,0,False
+Dehiwala Zoo,['Dehiwala Zoological Gardens'],substring,208,True
+Kudagala Forest Reserve & Monastery,[],none,0,False
+Koneswaram Kovil,[],none,0,False
+Aukana,[],none,0,False
+Gamini-Thissa Monastery Complex in Mottagala,[],none,0,False
+Bopagama Water Fall,[],none,0,False
+Asupini Ella,[],none,0,False
+Baranaville,[],none,0,False
+Bellanwila,[],none,0,False
+Botanical Garden in Galle,[],none,0,False
+Budugala (or Buduggala),[],none,0,False
+Dambakola Patuna Viharaya,[],none,0,False
+Gregory Lake,[],none,0,False
+Higurujaya Temple,[],none,0,False
+Jaffna Fort,[],none,0,False
+Kabbadda Cave,[],none,0,False
+Kabiragala,[],none,0,False
+Kadeiduwana,[],none,0,False
+Kaluganga Maha Viharaya,[],none,0,False
+Kirinda,['Kirinda Beach'],substring,187,True
+Komarawela Rajamaha Viharaya,[],none,0,False
+Abarana Ella,['Abarana Ella'],exact,15,True
+Aradunu Falls,['Aradunu Falls'],exact,38,True
+Arankele archaeological site,['Arankele archaeological site'],exact,46,True
+Asgiriya Raja Maha Viharaya,['Asgiriya Raja Maha Viharaya'],exact,119,True
+Atha Mala Ella,['Atha Mala Ella'],exact,71,True
+Athkanda raja maha viharaya,['Athkanda raja maha viharaya'],exact,114,True
+Athugala viharaya,['Athugala viharaya'],exact,203,True
+Attidiya Bird Sanctuary,['Attidiya Bird Sanctuary'],exact,206,True
+Badulla Alugolla Samadhi Buddha,['Badulla Alugolla Samadhi Buddha'],exact,23,True
+Badulla Dutch Fort,['Badulla Dutch Fort'],exact,77,True
+Badulla Katharagama Devalaya,['Badulla Katharagama Devalaya'],exact,51,True
+Balakaduwa ella waterfall,['Balakaduwa ella waterfall'],exact,10,True
+Bambarakiri ella,['Bambarakiri ella'],exact,660,True
+Barberyn Island,['Barberyn Island'],exact,46,True
+Bataatha Agro Technology and Tourism Park,['Bataatha Agro Technology and Tourism Park'],exact,211,True
+Batadobalena,['Batadobalena'],exact,93,True
+Beddagana Wetland Park,['Beddagana Wetland Park'],exact,199,True
+Birds Research Center Hambantota,['Birds Research Center Hambantota'],exact,267,True
+Biso Ella Waterfall,['Biso Ella Waterfall'],exact,53,True
+Black Galle Fort,['Black Galle Fort'],exact,45,True
+Boburu Fall Tracking,['Boburu Fall Tracking'],exact,19,True
+Bogoda Raja Maha Viharaya,['Bogoda Raja Maha Viharaya'],exact,33,True
+Bomburu Ella Waterfall,['Bomburu Ella Waterfall'],exact,222,True
+Bopagama Ella,['Bopagama Ella'],exact,87,True
+Bopath Falls,['Bopath Falls'],exact,321,True
+Bundala Safari with Srimal,['Bundala Safari with Srimal'],exact,44,True
+Cathedral Church of Christ the King,['Cathedral Church of Christ the King'],exact,13,True
+Children park - lakeround,['Children park - lakeround'],exact,227,True
+"Christ Church Warleigh, Dickoya","['Christ Church Warleigh, Dickoya']",exact,10,True
+Colombo Natational Museum,['colombo Natational Museum'],normalized,205,True
+Colombo Port Maritime Museum,['colombo Port Maritime Museum'],normalized,31,True
+Colombo Port Old Lighthouse,['colombo Port Old Lighthouse'],normalized,194,True
+Crow Island Beach Park,['Crow Island Beach Park'],exact,206,True
+Dalada maligawa kurunagela,['Dalada maligawa kurunagela'],exact,6,True
+Dandeniya Wewa,['Dandeniya Wewa'],exact,23,True
+Deduru oya dam,['Deduru oya dam'],exact,10,True
+Deduru oya resovir park,['Deduru oya resovir park'],exact,27,True
+Dehena Ella,['Dehena Ella'],exact,77,True
+Dehiwala Zoological Gardens,['Dehiwala Zoological Gardens'],exact,208,True
+Delgamuwa Rajamaha Viharaya,['Delgamuwa Rajamaha Viharaya'],exact,70,True
+Devon Waterfall view point,['Devon Waterfall view point'],exact,144,True
+Diva Guhawa,['Diva Guhawa'],exact,82,True
+Diyaluma Falls,['Diyaluma Falls'],exact,266,True
+Dolukanda rajamaha viharaya,['Dolukanda rajamaha viharaya'],exact,56,True
+Dondra Head,['Dondra Head'],exact,205,True
+"Dry Zone Botanic Gardens, Hambantota","['Dry Zone Botanic Gardens, Hambantota']",exact,259,True
+Dumbara ella waterfalls,['Dumbara ella waterfalls'],exact,65,True
+Dumpus Ella,['Dumpus Ella'],exact,14,True
+Dunhida Waterfall access point,['Dunhida Waterfall access point'],exact,110,True
+Dunhinda Waterfall,['Dunhinda Waterfall'],exact,123,True
+Dutch Museum,['Dutch Museum'],exact,129,True
+Dutch Reformed Church,['Dutch Reformed Church'],exact,116,True
+Excel World Entertainment Park,['Excel World Entertainment Park'],exact,200,True
+Flamingos Safari Tours,['Flamingos Safari Tours'],exact,8,True
+Galhinna big rock,['Galhinna big rock'],exact,27,True
+Galle Dutch Fort,['Galle Dutch Fort'],exact,199,True
+Galle Face Green,['Galle Face Green'],exact,198,True
+Galle Face park & Beach,['Galle Face park & Beach'],exact,155,True
+Galle Fort Attractions and Jumpers Sri Lanka,['Galle Fort Attractions and Jumpers Sri Lanka'],exact,193,True
+Galle Fort Clock Tower,['Galle Fort Clock Tower'],exact,192,True
+Galpotha Natural water slide,['Galpotha Natural water slide'],exact,10,True
+Gampaha Botanical Garden,['Gampaha Botanical Garden'],exact,238,True
+Gangarama Sima Malaka,['Gangarama Sima Malaka'],exact,194,True
+Gangarama Temple,['Gangarama Temple'],exact,195,True
+Gartmore Falls,['Gartmore Falls'],exact,191,True
+Glassaugh Falls,['Glassaugh Falls'],exact,19,True
+Goraka Ella,['Goraka Ella'],exact,46,True
+Guruge Park,['Guruge Park'],exact,220,True
+Hambantota Beach,['Hambantota Beach'],exact,32,True
+Hambantota Beach Children Park,['Hambantota Beach Children Park'],exact,25,True
+Hambantota Port View,['Hambantota Port View'],exact,19,True
+Hamilton Canal Park,['Hamilton Canal Park'],exact,59,True
+Hiriketiya Beach,['Hiriketiya Beach'],exact,218,True
+Historical Mansion Meseum,['Historical Mansion Meseum'],exact,106,True
+Horagolla National Park,['Horagolla National Park'],exact,156,True
+Horton plains national park,['Horton plains national park'],exact,1009,True
+Hulangala mini world end entrance,['Hulangala mini world end entrance'],exact,48,True
+Hulangala mini world's end view,"[""Hulangala mini world's end view""]",exact,209,True
+Hummanaya Blow Hole,['Hummanaya Blow Hole'],exact,227,True
+Hunnasgiriya water falls,['Hunnasgiriya water falls'],exact,302,True
+Ibbagala rajamaha viharaya,['Ibbagala rajamaha viharaya'],exact,18,True
+Japanese Peace Pagoda - Rumassala,['Japanese Peace Pagoda - Rumassala'],exact,258,True
+Jodu ella water falls,['Jodu ella water falls'],exact,85,True
+"Jungle Beach, Unawatuna","['Jungle Beach, Unawatuna']",exact,226,True
+K & R Tours Hambantota,['K & R Tours Hambantota'],exact,6,True
+Kadiyanlena eco resort,['Kadiyanlena eco resort'],exact,348,True
+Kalutara Bodhiya,['Kalutara Bodhiya'],exact,292,True
+Kande sudu ella water falls,['Kande sudu ella water falls'],exact,13,True
+Kathiresan Pillayar kovil,['Kathiresan Pillayar kovil'],exact,151,True
+Katugas Ella Waterfall,['Katugas Ella Waterfall'],exact,109,True
+Kayman's Gate,"[""Kayman's Gate""]",exact,27,True
+Kelaniya Raja Maha Viharaya,['Kelaniya Raja Maha Viharaya'],exact,192,True
+Kiddies paradise children's park,"[""Kiddies paradise children's park""]",exact,47,True
+Kirala Kele Sanctuary,['Kirala Kele Sanctuary'],exact,27,True
+Kirinda Beach,['Kirinda Beach'],exact,187,True
+Kirindi Ella Waterfall,['Kirindi Ella Waterfall'],exact,135,True
+Kolapathana waterfall,['Kolapathana waterfall'],exact,200,True
+Kombukara Nature Pool and Secre,['Kombukara Nature Pool and Secre'],exact,103,True
+Kurunagela camp site,['Kurunagela camp site'],exact,16,True
+Kurunagela clock tower,['Kurunagela clock tower'],exact,602,True
+Kurunagela lake jogging path,['Kurunagela lake jogging path'],exact,16,True
+Kurundu Oya Ella Falls,['Kurundu Oya Ella Falls'],exact,47,True
+Lagoon boat tour and Bird watching with the beautiful nature,['Lagoon boat tour and Bird watching with the beautiful nature'],exact,11,True
+Lake round kurunagela,['Lake round kurunagela'],exact,257,True
+Lanka Ella - Waterfall,['Lanka Ella - Waterfall'],exact,123,True
+Laxapana waterfall,['Laxapana waterfall'],exact,377,True
+Lighthouse - Galle,['Lighthouse - Galle'],exact,196,True
+Lighthouse - Hambantota,['Lighthouse - Hambantota'],exact,12,True
+Lover's leap waterfall,"[""Lover's leap waterfall""]",exact,262,True
+Lucky land spice garden,['Lucky land spice garden'],exact,23,True
+Madanagiri Ella,['Madanagiri Ella'],exact,15,True
+Madiha Beach,['Madiha Beach'],exact,154,True
+Madunagala Hot Water Spring,['Madunagala Hot Water Spring'],exact,220,True
+Magampura Ruhunu Heritage Museum,['Magampura Ruhunu Heritage Museum'],exact,10,True
+Mahamodara Beach Park & Marine Walk,['Mahamodara Beach Park & Marine Walk'],exact,101,True
+Mapalana Ella Falls,['Mapalana Ella Falls'],exact,71,True
+Marakkala Ella,['Marakkala Ella'],exact,13,True
+Maraluwawa raja maha viharaya,['Maraluwawa raja maha viharaya'],exact,60,True
+Maritime Museum,['Maritime Museum'],exact,208,True
+Maruthamunai beach,['Maruthamunai beach'],exact,102,True
+Matale town -  view point,['Matale town -  view point'],exact,28,True
+Matara Beach Park,['Matara Beach Park'],exact,151,True
+Matara Bodhiya,['Matara Bodhiya'],exact,193,True
+Matara Fort,['Matara Fort'],exact,147,True
+Matara Paravi Duwa Beach,['Matara Paravi Duwa Beach'],exact,96,True
+Mayan Water Park,['Mayan Water Park'],exact,174,True
+"Meeran Mosque, Galle Fort","['Meeran Mosque, Galle Fort']",exact,177,True
+Minee Ella,['Minee Ella'],exact,55,True
+Mirijjawila Botanical Gardens - South Gate,['Mirijjawila Botanical Gardens - South Gate'],exact,16,True
+Mohini Falls,['Mohini Falls'],exact,89,True
+Moon plains,['Moon plains'],exact,728,True
+Mooray falls,['Mooray falls'],exact,48,True
+Mount vernon waterfall,['Mount vernon waterfall'],exact,18,True
+Muthiyangana Raja Maha Vihara,['Muthiyangana Raja Maha Vihara'],exact,279,True
+Nalanda gedige,['Nalanda gedige'],exact,471,True
+Narangala Hill,['Narangala Hill'],exact,91,True
+Narangala Mountain,['Narangala Mountain'],exact,151,True
+National Art Gallery,['National Art Gallery'],exact,46,True
+National Meuseum Galle,['National Meuseum Galle'],exact,93,True
+National spice garden of sri lanka,['National spice garden of sri lanka'],exact,66,True
+Nilwala Crocodile Safari,['Nilwala Crocodile Safari'],exact,27,True
+Old Dutch Market,['Old Dutch Market'],exact,35,True
+Old Parliament Building,['Old Parliament Building'],exact,41,True
+Padiwita ambalama,['Padiwita ambalama'],exact,57,True
+Pallewela Waterfall,['Pallewela Waterfall'],exact,40,True
+Panagala,['Panagala'],exact,9,True
+Pandiruppu,['Pandiruppu'],exact,5,True
+Pareiyan Ella Falls,['Pareiyan Ella Falls'],exact,44,True
+Parewi Duwa Temple,['Parewi Duwa Temple'],exact,261,True
+Parrot Rock,['Parrot Rock'],exact,205,True
+Pasindu's Snorkeling Centre,"[""Pasindu's Snorkeling Centre""]",exact,14,True
+Pettah Floating Market,['Pettah Floating Market'],exact,209,True
+"Pitawala pathana , riverston","['Pitawala pathana , riverston']",exact,527,True
+Porawagala Viewpoint,['Porawagala Viewpoint'],exact,83,True
+Pothgul Vihara,['Pothgul Vihara'],exact,51,True
+Prabhawa Mountain Day Viewpoint,['Prabhawa Mountain Day Viewpoint'],exact,26,True
+Puwakpitiya Oya,['Puwakpitiya Oya'],exact,16,True
+Queen Viharamahadevi Statue,['Queen Viharamahadevi Statue'],exact,12,True
+Rahas ella waterfalls,['Rahas ella waterfalls'],exact,52,True
+Raja & the Whales,['Raja & the Whales'],exact,269,True
+Rajanawa Waterfall,['Rajanawa Waterfall'],exact,50,True
+Rambadagalla monaragala temple,['Rambadagalla monaragala temple'],exact,8,True
+Rangala natural pool,['Rangala natural pool'],exact,253,True
+Rathnapura National Museum,['Rathnapura National Museum'],exact,81,True
+Ravan Ella Waterfall,['Ravan Ella Waterfall'],exact,58,True
+Ravana Waterfall,['Ravana Waterfall'],exact,218,True
+Ravana's Cave,"[""Ravana's Cave""]",exact,278,True
+Rekawa Turtle Beach,['Rekawa Turtle Beach'],exact,43,True
+Ridiyagama Safari Park,['Ridiyagama Safari Park'],exact,408,True
+Riverston,['Riverston'],exact,779,True
+Rukmani Devi Park,['Rukmani Devi Park'],exact,197,True
+Rumassala Sanctuary,['Rumassala Sanctuary'],exact,84,True
+Rumassala South Beach,['Rumassala South Beach'],exact,61,True
+Sambodhi Pagoda,['Sambodhi Pagoda'],exact,150,True
+Saniro Dream Paradise,['Saniro Dream Paradise'],exact,215,True
+Sathutu Uyana,['Sathutu Uyana'],exact,193,True
+Sea corner,['Sea corner'],exact,6,True
+Sembuwatta lake,['Sembuwatta lake'],exact,608,True
+Sera ella water falls,['Sera ella water falls'],exact,445,True
+Shanthipura view point,['Shanthipura view point'],exact,265,True
+Single tree hill,['Single tree hill'],exact,234,True
+Siri Gautama Sambuddharaja maligawa,['Siri Gautama Sambuddharaja maligawa'],exact,76,True
+Sk Town Beach,['Sk Town Beach'],exact,27,True
+Snake Farm Weligama (Traditional Farm),['Snake Farm Weligama (Traditional Farm)'],exact,267,True
+Sri Kailawasanathan Swami Devasthanam Kovil,['Sri Kailawasanathan Swami Devasthanam Kovil'],exact,117,True
+Sri Lanka Planetarium,['Sri Lanka Planetarium'],exact,177,True
+Sri Maha Viharaya,['Sri Maha Viharaya'],exact,37,True
+Sri Sudharmalaya Buddhist Temple,[],none,0,False
+Sri Sumana Saman Devalaya,['Sri Sumana Saman Devalaya'],exact,251,True
+Sri muththumari amman kovil,['Sri muththumari amman kovil'],exact,481,True
+"St. Anthony's Shrine, Kochchikade","[""St. Anthony's Shrine, Kochchikade""]",exact,264,True
+St. Lucia's Cathedral,"[""St. Lucia's Cathedral""]",exact,170,True
+St. Mary's Cathedral,"[""St. Mary's Cathedral""]",exact,67,True
+Star Fort Matara,['Star Fort Matara'],exact,186,True
+Swarnagiri maha viharaya,['Swarnagiri maha viharaya'],exact,93,True
+"TURTLE POINT BATHEEGAMA, DiCKWELLA.","['TURTLE POINT BATHEEGAMA, DiCKWELLA.']",exact,43,True
+Thalangama Lake,['Thalangama Lake'],exact,198,True
+The Palm Rope Swing,['The Palm Rope Swing'],exact,34,True
+The Shrine of Our Lady of Matara,['The Shrine of Our Lady of Matara'],exact,197,True
+Themali kaan waterfalls,['Themali kaan waterfalls'],exact,13,True
+Thepulangoda Waterfall,['Thepulangoda Waterfall'],exact,24,True
+To Sripada,['To Sripada'],exact,16,True
+Torington park,['Torington park'],exact,56,True
+Turtle Bay Activity Center,['Turtle Bay Activity Center'],exact,103,True
+Udammita Ambalama,['Udammita Ambalama'],exact,36,True
+Upper Rawana,['Upper Rawana'],exact,31,True
+Upper kothmale reserovir view point,['Upper kothmale reserovir view point'],exact,20,True
+Uva Halpewatte Tea Factory Tour,['Uva Halpewatte Tea Factory Tour'],exact,230,True
+V.T. Nanayakkara park,['V.T. Nanayakkara park'],exact,66,True
+Wadakada ella falls,['Wadakada ella falls'],exact,41,True
+Waranagala waterfall,['Waranagala waterfall'],exact,13,True
+Weherahena Poorwarama Rajamaha Viharaya,['Weherahena Poorwarama Rajamaha Viharaya'],exact,192,True
+Weligama Beach (surf spot),['Weligama Beach (surf spot)'],exact,130,True
+Wewala waterfall,['Wewala waterfall'],exact,18,True
+Wewurukannala Buduraja Maha Viharaya,['Wewurukannala Buduraja Maha Viharaya'],exact,209,True
+Windy corner falls,['Windy corner falls'],exact,15,True
+Wirawila Tissa Sanctuary,['Wirawila Tissa Sanctuary'],exact,161,True
+Yakdessagala mountain,['Yakdessagala mountain'],exact,62,True
+Yatagala Raja Maha Viharaya,['Yatagala Raja Maha Viharaya'],exact,179,True
+Yatala Dalada Wehera,['Yatala Dalada Wehera'],exact,80,True
+kalido beach kalutara,['kalido beach kalutara'],exact,15,True

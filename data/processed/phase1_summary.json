@@ -1,0 +1,32 @@
+{
+  "reviews_total":35434,
+  "attractions_total":350,
+  "review_destinations_unique":236,
+  "review_districts_unique":12,
+  "attraction_destinations_unique":31,
+  "attractions_exact_name_match":215,
+  "attractions_partial_match":237,
+  "attractions_no_review_match":113,
+  "review_only_destinations":21,
+  "categories":{
+    "Heritage":120,
+    "Scenic":97,
+    "Essence":66,
+    "Wild":31,
+    "Pristine":29,
+    "Thrills":7
+  },
+  "moods":{
+    "Curious":144,
+    "Relaxed":79,
+    "Peaceful":76,
+    "Adventure":27,
+    "Excited":8,
+    "Authentic":7,
+    "Spiritual":6,
+    "Healing":1,
+    "Explore":1,
+    "Happy":1
+  }
+}
+
